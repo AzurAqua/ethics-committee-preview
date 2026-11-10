@@ -1,11 +1,11 @@
-# Ethics Committee public edition
+# Ethics Committee v0.2.0
 
-Independent hosting for the public-edition preview: https://azuraqua.github.io/ethics-committee-preview/
+Public website: https://azuraqua.github.io/ethics-committee-preview/
 
-Source and acceptance evidence: https://github.com/AzurAqua/ethics-committee/tree/feat/public-release
+Official release: https://github.com/AzurAqua/ethics-committee/releases/tag/v0.2.0
 
-This edition supports email signup, verification, password recovery and one private track record per account. It uses a separate backend and separate accounts from stable v1.
+Source commit: 2be9a2de9aadb2cfa6af6e5df34a03a716218b1d on feat/public-release.
 
-Minimum acceptance is complete, including live backend API checks, browser checks and user verification on a mainland China phone without a VPN. The application build corresponds to source commit a0ebec1f20baf4c3445cfc446523aafc4c8de23d; version.json identifies the deployed application build.
+This public edition supports email signup, verification, password recovery and one private track record per account. Minimum acceptance includes live backend, browser, email and mainland China phone checks. Its backend and accounts are separate from stable v1.
 
-Stable v1 remains available at https://azuraqua.github.io/ethics-committee/.
+Stable v1 continues at https://azuraqua.github.io/ethics-committee/.
