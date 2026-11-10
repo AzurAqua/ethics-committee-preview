@@ -30,7 +30,7 @@ Resources:`;for(let t of c){if(!t||typeof t!=`string`)throw Error(`@supabase/aut
         <circle cx="161" cy="124" r="5" class="dot" />
       </svg>
     </section>
-    <p class="preview-notice">公开版 v${Ca} · 每个账号保留一份记录。<a href="https://azuraqua.github.io/ethics-committee/">首批玩家第一版入口</a></p>
+    <p class="preview-notice">公开版 v${Ca} · 每个账号保留一份记录。</p>
     <section class="workspace" aria-label="进程轨道">
       <div class="board-bar">
         <div class="board-title"><span>01 /</span><h2>进程轨道</h2></div>

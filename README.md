@@ -1,11 +1,7 @@
-# Ethics Committee v0.2.0
+# 伦理委员会
 
-Public website: https://azuraqua.github.io/ethics-committee-preview/
+包含《三角机构》「伦理委员会」扩展的个人轨道记录网站，支持电脑和手机使用。
 
-Official release: https://github.com/AzurAqua/ethics-committee/releases/tag/v0.2.0
+[进入网站](https://azuraqua.github.io/ethics-committee-preview/) · [使用说明](https://github.com/AzurAqua/ethics-committee/blob/main/PLAYER-GUIDE.md) · [项目主页](https://github.com/AzurAqua/ethics-committee)
 
-Source commit: 2be9a2de9aadb2cfa6af6e5df34a03a716218b1d on feat/public-release.
-
-This public edition supports email signup, verification, password recovery and one private track record per account. Minimum acceptance includes live backend, browser, email and mainland China phone checks. Its backend and accounts are separate from stable v1.
-
-Stable v1 continues at https://azuraqua.github.io/ethics-committee/.
+使用邮箱注册并验证后，即可记录个人游戏进程；支持自动保存、跨设备读取和邮件找回密码。每个账号保留一份独立记录。
